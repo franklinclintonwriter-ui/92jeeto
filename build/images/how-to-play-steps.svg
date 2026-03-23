@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="gst" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#8B5CF6"/><stop offset="100%" style="stop-color:#7C3AED"/></linearGradient>
+    <linearGradient id="gst2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#F59E0B"/><stop offset="100%" style="stop-color:#FBBF24"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="70" text-anchor="middle" fill="#F1F5F9" font-size="32" font-weight="bold" font-family="sans-serif">How to Get Started</text>
+  <text x="400" y="105" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="sans-serif">3 Simple Steps to Start Winning</text>
+  <circle cx="180" cy="280" r="70" fill="url(#gst)"/><text x="180" y="270" text-anchor="middle" fill="white" font-size="36" font-weight="bold" font-family="sans-serif">1</text>
+  <text x="180" y="300" text-anchor="middle" fill="white" font-size="12" font-family="sans-serif">REGISTER</text>
+  <text x="180" y="380" text-anchor="middle" fill="#F1F5F9" font-size="16" font-weight="bold" font-family="sans-serif">Download &amp; Register</text>
+  <text x="180" y="405" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Create account in 2 min</text>
+  <line x1="260" y1="280" x2="320" y2="280" stroke="#F59E0B" stroke-width="3" stroke-dasharray="8,4"/>
+  <circle cx="400" cy="280" r="70" fill="url(#gst2)"/><text x="400" y="270" text-anchor="middle" fill="#0F172A" font-size="36" font-weight="bold" font-family="sans-serif">2</text>
+  <text x="400" y="300" text-anchor="middle" fill="#0F172A" font-size="12" font-family="sans-serif">DEPOSIT</text>
+  <text x="400" y="380" text-anchor="middle" fill="#F1F5F9" font-size="16" font-weight="bold" font-family="sans-serif">Add Funds</text>
+  <text x="400" y="405" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">JazzCash or Easypaisa</text>
+  <line x1="480" y1="280" x2="540" y2="280" stroke="#F59E0B" stroke-width="3" stroke-dasharray="8,4"/>
+  <circle cx="620" cy="280" r="70" fill="#22C55E"/><text x="620" y="270" text-anchor="middle" fill="white" font-size="36" font-weight="bold" font-family="sans-serif">3</text>
+  <text x="620" y="300" text-anchor="middle" fill="white" font-size="12" font-family="sans-serif">PLAY &amp; WIN</text>
+  <text x="620" y="380" text-anchor="middle" fill="#F1F5F9" font-size="16" font-weight="bold" font-family="sans-serif">Play &amp; Win</text>
+  <text x="620" y="405" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">50+ games available</text>
+  <rect x="200" y="460" width="400" height="60" rx="12" fill="#1E293B"/>
+  <text x="400" y="498" text-anchor="middle" fill="#FBBF24" font-size="18" font-weight="bold" font-family="sans-serif">< Get PKR 199 Welcome Bonus!</text>
+  <text x="400" y="570" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Quick Setup " Secure Payments " Instant Gaming Access</text>
+</svg>

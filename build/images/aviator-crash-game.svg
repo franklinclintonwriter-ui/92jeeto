@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="ga1" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#EF4444"/><stop offset="50%" style="stop-color:#F59E0B"/><stop offset="100%" style="stop-color:#22C55E"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="70" text-anchor="middle" fill="#F1F5F9" font-size="32" font-weight="bold" font-family="sans-serif">Aviator Game</text>
+  <text x="400" y="105" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="sans-serif">Cash Out Before The Plane Flies Away!</text>
+  <line x1="100" y1="450" x2="700" y2="450" stroke="#334155" stroke-width="2"/>
+  <line x1="100" y1="450" x2="100" y2="150" stroke="#334155" stroke-width="2"/>
+  <path d="M100,450 Q250,420 350,350 T550,180" stroke="url(#ga1)" stroke-width="4" fill="none"/>
+  <circle cx="550" cy="180" r="8" fill="#22C55E"/>
+  <text x="570" y="170" fill="#22C55E" font-size="28" font-weight="bold" font-family="sans-serif"></text>
+  <text x="400" y="280" text-anchor="middle" fill="#FBBF24" font-size="72" font-weight="bold" font-family="sans-serif">7.3x</text>
+  <text x="400" y="320" text-anchor="middle" fill="#94A3B8" font-size="18" font-family="sans-serif">Current Multiplier</text>
+  <rect x="300" y="490" width="200" height="45" rx="22" fill="#22C55E"/>
+  <text x="400" y="520" text-anchor="middle" fill="white" font-size="18" font-weight="bold" font-family="sans-serif">CASH OUT</text>
+  <text x="400" y="575" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Real-Time Multiplier " Strategic Gameplay " Big Wins</text>
+</svg>

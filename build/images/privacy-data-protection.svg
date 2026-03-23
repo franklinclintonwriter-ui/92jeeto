@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="70" text-anchor="middle" fill="#F1F5F9" font-size="32" font-weight="bold" font-family="sans-serif">Data Privacy &amp; Protection</text>
+  <circle cx="400" cy="280" r="120" fill="#1E293B" stroke="#8B5CF6" stroke-width="3"/>
+  <text x="400" y="300" text-anchor="middle" fill="white" font-size="90">=á</text>
+  <circle cx="200" cy="200" r="50" fill="#1E293B"/><text x="200" y="208" text-anchor="middle" fill="white" font-size="30">=</text>
+  <text x="200" y="270" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Encrypted</text>
+  <circle cx="600" cy="200" r="50" fill="#1E293B"/><text x="600" y="208" text-anchor="middle" fill="white" font-size="30">=Ë</text>
+  <text x="600" y="270" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Compliant</text>
+  <circle cx="200" cy="380" r="50" fill="#1E293B"/><text x="200" y="388" text-anchor="middle" fill="white" font-size="30">=A</text>
+  <text x="200" y="450" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Transparent</text>
+  <circle cx="600" cy="380" r="50" fill="#1E293B"/><text x="600" y="388" text-anchor="middle" fill="white" font-size="30"></text>
+  <text x="600" y="450" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Verified</text>
+  <text x="400" y="470" text-anchor="middle" fill="#22C55E" font-size="18" font-weight="bold" font-family="sans-serif">Your Data is Safe With Us</text>
+  <text x="400" y="540" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">SSL Encryption " Regular Audits " GDPR Practices " Secure Storage</text>
+</svg>

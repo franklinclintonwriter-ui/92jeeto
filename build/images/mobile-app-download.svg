@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="gd1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#8B5CF6"/><stop offset="100%" style="stop-color:#7C3AED"/></linearGradient>
+    <linearGradient id="gd2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#F59E0B"/><stop offset="100%" style="stop-color:#FBBF24"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <rect x="290" y="80" width="220" height="420" rx="30" fill="#1E293B" stroke="url(#gd1)" stroke-width="4"/>
+  <rect x="310" y="120" width="180" height="330" rx="5" fill="#0F172A"/>
+  <circle cx="400" cy="490" r="15" fill="url(#gd1)"/>
+  <rect x="370" y="95" width="60" height="8" rx="4" fill="#334155"/>
+  <polygon points="400,220 430,270 370,270" fill="url(#gd2)"/>
+  <rect x="385" y="270" width="30" height="60" fill="url(#gd2)"/>
+  <text x="400" y="190" text-anchor="middle" fill="#F1F5F9" font-size="16" font-weight="bold" font-family="sans-serif">DOWNLOAD</text>
+  <text x="400" y="370" text-anchor="middle" fill="#F59E0B" font-size="22" font-weight="bold" font-family="sans-serif">92 Jeeto APK</text>
+  <text x="400" y="400" text-anchor="middle" fill="#94A3B8" font-size="13" font-family="sans-serif">v3.2 " 45MB " Android 5.0+</text>
+  <circle cx="130" cy="200" r="50" fill="#8B5CF6" opacity="0.2"/><text x="130" y="208" text-anchor="middle" fill="white" font-size="32">=ñ</text>
+  <circle cx="670" cy="180" r="45" fill="#F59E0B" opacity="0.2"/><text x="670" y="188" text-anchor="middle" fill="white" font-size="28"></text>
+  <circle cx="650" cy="420" r="40" fill="#7C3AED" opacity="0.2"/><text x="650" y="428" text-anchor="middle" fill="white" font-size="26"></text>
+  <circle cx="150" cy="430" r="35" fill="#FBBF24" opacity="0.2"/><text x="150" y="438" text-anchor="middle" fill="white" font-size="24">=</text>
+  <text x="400" y="560" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Free Download " 100% Safe " Official App</text>
+</svg>

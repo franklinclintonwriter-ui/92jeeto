@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="70" text-anchor="middle" fill="#F1F5F9" font-size="32" font-weight="bold" font-family="sans-serif">Responsible Gaming</text>
+  <text x="400" y="105" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="sans-serif">Play Smart, Play Safe</text>
+  <circle cx="400" cy="280" r="100" fill="#1E293B" stroke="#F59E0B" stroke-width="3"/>
+  <text x="400" y="260" text-anchor="middle" fill="white" font-size="24" font-weight="bold" font-family="sans-serif">18+</text>
+  <text x="400" y="300" text-anchor="middle" fill="#F59E0B" font-size="14" font-weight="bold" font-family="sans-serif">PLAY RESPONSIBLY</text>
+  <rect x="100" y="430" width="180" height="70" rx="10" fill="#1E293B"/>
+  <text x="190" y="460" text-anchor="middle" fill="#F59E0B" font-size="14" font-weight="bold" font-family="sans-serif">ð Set Limits</text>
+  <text x="190" y="482" text-anchor="middle" fill="#94A3B8" font-size="11" font-family="sans-serif">Control your spending</text>
+  <rect x="310" y="430" width="180" height="70" rx="10" fill="#1E293B"/>
+  <text x="400" y="460" text-anchor="middle" fill="#F59E0B" font-size="14" font-weight="bold" font-family="sans-serif">= Self-Exclude</text>
+  <text x="400" y="482" text-anchor="middle" fill="#94A3B8" font-size="11" font-family="sans-serif">Take a break anytime</text>
+  <rect x="520" y="430" width="180" height="70" rx="10" fill="#1E293B"/>
+  <text x="610" y="460" text-anchor="middle" fill="#F59E0B" font-size="14" font-weight="bold" font-family="sans-serif">=Þ Get Help</text>
+  <text x="610" y="482" text-anchor="middle" fill="#94A3B8" font-size="11" font-family="sans-serif">Support available 24/7</text>
+  <text x="400" y="560" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Gambling can be addictive. Please gamble responsibly.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="gp1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#8B5CF6"/><stop offset="100%" style="stop-color:#7C3AED"/></linearGradient>
+    <linearGradient id="gp2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#F59E0B"/><stop offset="100%" style="stop-color:#FBBF24"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="80" text-anchor="middle" fill="#F1F5F9" font-size="32" font-weight="bold" font-family="sans-serif">Secure Payment Methods</text>
+  <text x="400" y="115" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="sans-serif">Fast Deposits &amp; Instant Withdrawals in Pakistan</text>
+  <rect x="80" y="160" width="200" height="240" rx="20" fill="#1E293B" stroke="#EF4444" stroke-width="2"/>
+  <circle cx="180" cy="230" r="40" fill="#EF4444" opacity="0.2"/>
+  <text x="180" y="240" text-anchor="middle" fill="white" font-size="36">=ñ</text>
+  <text x="180" y="300" text-anchor="middle" fill="#F1F5F9" font-size="20" font-weight="bold" font-family="sans-serif">JazzCash</text>
+  <text x="180" y="325" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Instant Transfer</text>
+  <text x="180" y="375" text-anchor="middle" fill="#22C55E" font-size="14" font-weight="bold" font-family="sans-serif"> Active</text>
+  <rect x="300" y="160" width="200" height="240" rx="20" fill="#1E293B" stroke="#22C55E" stroke-width="2"/>
+  <circle cx="400" cy="230" r="40" fill="#22C55E" opacity="0.2"/>
+  <text x="400" y="240" text-anchor="middle" fill="white" font-size="36">=³</text>
+  <text x="400" y="300" text-anchor="middle" fill="#F1F5F9" font-size="20" font-weight="bold" font-family="sans-serif">Easypaisa</text>
+  <text x="400" y="325" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Quick Payment</text>
+  <text x="400" y="375" text-anchor="middle" fill="#22C55E" font-size="14" font-weight="bold" font-family="sans-serif"> Active</text>
+  <rect x="520" y="160" width="200" height="240" rx="20" fill="#1E293B" stroke="#8B5CF6" stroke-width="2"/>
+  <circle cx="620" cy="230" r="40" fill="#8B5CF6" opacity="0.2"/>
+  <text x="620" y="240" text-anchor="middle" fill="white" font-size="36"><æ</text>
+  <text x="620" y="300" text-anchor="middle" fill="#F1F5F9" font-size="20" font-weight="bold" font-family="sans-serif">Bank Transfer</text>
+  <text x="620" y="325" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="sans-serif">Direct Deposit</text>
+  <text x="620" y="375" text-anchor="middle" fill="#22C55E" font-size="14" font-weight="bold" font-family="sans-serif"> Active</text>
+  <rect x="150" y="440" width="500" height="70" rx="15" fill="url(#gp2)" opacity="0.15"/>
+  <text x="400" y="480" text-anchor="middle" fill="#FBBF24" font-size="20" font-weight="bold" font-family="sans-serif">= 256-bit SSL Encrypted Transactions</text>
+  <text x="400" y="560" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Min Deposit: PKR 200 " Min Withdrawal: PKR 500 " Processed in Minutes</text>
+</svg>

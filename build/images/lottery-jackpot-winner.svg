@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="gl1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#F59E0B"/><stop offset="100%" style="stop-color:#FBBF24"/></linearGradient>
+    <linearGradient id="gl2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#8B5CF6"/><stop offset="100%" style="stop-color:#7C3AED"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="70" text-anchor="middle" fill="#FBBF24" font-size="36" font-weight="bold" font-family="sans-serif"><° Lottery &amp; Jackpot Games</text>
+  <rect x="150" y="120" width="500" height="350" rx="25" fill="#1E293B" stroke="url(#gl1)" stroke-width="3"/>
+  <circle cx="260" cy="250" r="55" fill="url(#gl2)" opacity="0.8"/><text x="260" y="265" text-anchor="middle" fill="white" font-size="48" font-weight="bold" font-family="sans-serif">7</text>
+  <circle cx="400" cy="250" r="55" fill="url(#gl1)" opacity="0.9"/><text x="400" y="265" text-anchor="middle" fill="#0F172A" font-size="48" font-weight="bold" font-family="sans-serif">7</text>
+  <circle cx="540" cy="250" r="55" fill="url(#gl2)" opacity="0.8"/><text x="540" y="265" text-anchor="middle" fill="white" font-size="48" font-weight="bold" font-family="sans-serif">7</text>
+  <text x="400" y="370" text-anchor="middle" fill="#FBBF24" font-size="28" font-weight="bold" font-family="sans-serif">JACKPOT!</text>
+  <text x="400" y="410" text-anchor="middle" fill="#22C55E" font-size="22" font-weight="bold" font-family="sans-serif">¨ 1,000,000+</text>
+  <text x="400" y="440" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Win Go " 5D Lottery " K3 Lotre " Daily Draws</text>
+  <text x="200" y="530" text-anchor="middle" fill="white" font-size="28">P</text>
+  <text x="300" y="540" text-anchor="middle" fill="white" font-size="24">(</text>
+  <text x="500" y="530" text-anchor="middle" fill="white" font-size="24">(</text>
+  <text x="600" y="540" text-anchor="middle" fill="white" font-size="28">P</text>
+  <text x="400" y="570" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">New Draws Every 3 Minutes " Massive Jackpots Daily</text>
+</svg>

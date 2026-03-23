@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /_next/
+Disallow: /404.html
+
+Sitemap: https://92jeeto.app/sitemap.xml

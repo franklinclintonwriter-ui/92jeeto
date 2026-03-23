@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="gw1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#F59E0B"/><stop offset="100%" style="stop-color:#FBBF24"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="250" text-anchor="middle" fill="white" font-size="120"><Æ</text>
+  <text x="400" y="340" text-anchor="middle" fill="#FBBF24" font-size="44" font-weight="bold" font-family="sans-serif">WINNER!</text>
+  <text x="400" y="390" text-anchor="middle" fill="#22C55E" font-size="30" font-weight="bold" font-family="sans-serif">¨ 50,000</text>
+  <text x="400" y="430" text-anchor="middle" fill="#94A3B8" font-size="16" font-family="sans-serif">Congratulations! You've Won Big!</text>
+  <text x="150" y="120" fill="white" font-size="30"><‰</text>
+  <text x="650" y="100" fill="white" font-size="26"><Š</text>
+  <text x="100" y="400" fill="white" font-size="24">P</text>
+  <text x="700" y="380" fill="white" font-size="28">(</text>
+  <text x="200" y="530" fill="white" font-size="20"><†</text>
+  <text x="600" y="520" fill="white" font-size="22"><‡</text>
+  <text x="350" y="140" fill="white" font-size="18">(</text>
+  <text x="500" y="130" fill="white" font-size="22">P</text>
+  <rect x="250" y="470" width="300" height="50" rx="25" fill="url(#gw1)"/>
+  <text x="400" y="502" text-anchor="middle" fill="#0F172A" font-size="18" font-weight="bold" font-family="sans-serif">WITHDRAW NOW</text>
+  <text x="400" y="570" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Instant Withdrawals via JazzCash &amp; Easypaisa</text>
+</svg>

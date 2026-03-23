@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0F172A" rx="20"/>
+  <text x="400" y="70" text-anchor="middle" fill="#F1F5F9" font-size="32" font-weight="bold" font-family="sans-serif">Terms &amp; Conditions</text>
+  <rect x="230" y="110" width="340" height="420" rx="15" fill="#1E293B" stroke="#8B5CF6" stroke-width="2"/>
+  <rect x="260" y="140" width="280" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="165" width="220" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="190" width="260" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="230" width="280" height="8" rx="4" fill="#8B5CF6" opacity="0.3"/>
+  <rect x="260" y="255" width="240" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="280" width="260" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="305" width="200" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="345" width="280" height="8" rx="4" fill="#8B5CF6" opacity="0.3"/>
+  <rect x="260" y="370" width="250" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="395" width="270" height="8" rx="4" fill="#334155"/>
+  <rect x="260" y="420" width="180" height="8" rx="4" fill="#334155"/>
+  <circle cx="500" cy="480" r="25" fill="#8B5CF6"/>
+  <text x="500" y="488" text-anchor="middle" fill="white" font-size="20"></text>
+  <text x="400" y="560" text-anchor="middle" fill="#94A3B8" font-size="14" font-family="sans-serif">Fair Play " User Protection " Clear Guidelines " Legal Compliance</text>
+</svg>
